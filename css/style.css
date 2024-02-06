@@ -1,0 +1,108 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    height: 100px;
+    background-color: chartreuse;
+    color: black;
+    text-align: center;
+}
+.banner{
+    height: 500px;
+    background-color: chocolate;
+    color: blue;
+    text-align: center;
+    font-size: 50px;
+}
+.about{
+    display: flex;
+}
+.about_image{
+    width: 50%;
+    height: 300px;
+    background-color: aquamarine;
+    color: blueviolet;
+    text-align: center;
+    font-size: 50px;
+}
+.about_content{
+    width: 50%;
+    height: 300px;
+    background-color: rgb(127, 157, 255);
+    color: rgb(226, 43, 43);
+    text-align: center;
+    font-size: 50px;
+
+}
+.service{
+    display: flex;
+}
+.service_one{
+    width: 33.3%;
+    height: 200;
+    background-color: coral;
+    text-align: center;
+    color: cyan;
+    font-size: 40px;
+}
+.service_two{
+    width: 33.3%;
+    height: 200;
+    background-color: rgb(95, 197, 0);
+    text-align: center;
+    color: rgb(229, 255, 0);
+    font-size: 40px;
+}
+.service_three{
+    width: 33.3%;
+    height: 200;
+    background-color: rgb(41, 43, 44);
+    text-align: center;
+    color: rgb(255, 0, 212);
+    font-size: 40px;
+}
+.work{
+display: flex;
+}
+.work_one{
+    width: 25%;
+    height: 200pix;
+    background-color: darkturquoise;
+    text-align: center;
+    color: darkkhaki;
+    font-size: 40px;
+
+}
+.work_two{
+    width: 25%;
+    height: 200pix;
+    background-color: rgb(209, 0, 129);
+    text-align: center;
+    color: rgb(107, 189, 118);
+    font-size: 40px;
+}
+.work_three{
+    width: 25%;
+    height: 200pix;
+    background-color: rgb(209, 171, 0);
+    text-align: center;
+    color: rgb(107, 186, 189);
+    font-size: 40px;
+}
+.work_four{
+    width: 25%;
+    height: 200pix;
+    background-color:red;
+    text-align: center;
+    color: rgb(189, 188, 107);
+    font-size: 40px;
+}
+.footer{
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+    height: 80px;
+}
+
+}
